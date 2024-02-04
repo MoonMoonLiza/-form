@@ -1,0 +1,24 @@
+.bex{
+	height: 100vh;
+	background-color:#682d2d;;
+}
+
+.beex{
+ 	height: 100px;
+ 	background-color: lightpink;
+ }
+ .beex h1{
+ 	font-size: 45px;
+ 	font-weight: 600;
+ 	font-family: serif;
+ 	color:lightcyan;
+ 	border-bottom: 2px #626262;
+ }
+
+
+.boox{
+	height: 100px vh;
+	background:#b0c4e1;
+	border: 3px double #5f93df;
+	border-radius: 15px;
+}
